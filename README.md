@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with javascript.
 - 📫 How to reach me: dquindara8@gmail.com
 - ⚡ Fun fact: I love to help and collaborate whenever I can.
-![Freepik free avatar image](https://user-images.githubusercontent.com/108308166/187086129-d3fb321f-d0b9-48fb-8176-d2de80be92e2.png)
